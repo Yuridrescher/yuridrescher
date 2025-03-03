@@ -1,7 +1,3 @@
-<h1 align="left">Ola!👋<br>Sou aluno do curso de Sistemas de Informação (SI) na Faculdade Antonio Meneghetti.</h1>
-
-###
-
 <h2 align="left">Estatisticas</h2>
 
 ###
