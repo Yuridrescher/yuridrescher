@@ -1,7 +1,6 @@
 <!-- Banner -->
 <p align="center">
- !(<img width="735" height="397" alt="image" src="https://github.com/user-attachments/assets/dbb0b046-f971-4be1-b34e-ffc055d62942" />
-)
+ <img width="735" height="397" alt="image" src="https://github.com/user-attachments/assets/dbb0b046-f971-4be1-b34e-ffc055d62942" />
 
 ---
 
