@@ -1,8 +1,7 @@
 <!-- Banner -->
 <p align="center">
-  <img src=![download (1)](https://github.com/user-attachments/assets/45acab79-869e-49ed-a038-dfbc6b4a84e0)
->
-</p>
+ !(<img width="735" height="397" alt="image" src="https://github.com/user-attachments/assets/dbb0b046-f971-4be1-b34e-ffc055d62942" />
+)
 
 ---
 
