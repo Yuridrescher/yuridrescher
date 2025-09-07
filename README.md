@@ -58,12 +58,4 @@ Me chamo Yuri, sou natural do Rio Grande do Sul. Atualmente, estou cursando Sist
 </div>
 
 
-### 📌 Repositórios Populares
-
-<p align="center">
-  <a href="https://github.com/yuridrescher/Projeto-final">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuridrescher&repo=Projeto-final&theme=tokyonight&title_color=4B5320&text_color=FFFFFF&bg_color=000000&hide_border=true"/>
-  </a>
-</p>
-
 
