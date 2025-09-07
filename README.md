@@ -12,32 +12,36 @@
 Me chamo Yuri, sou natural do Rio Grande do Sul. Atualmente, estou cursando Sistemas de Informação na Antonio Meneghetti Faculdade. Sou apaixonado por tecnologia e entusiasta da área Tech. Me conheça mais através do meu perfi no Instagram, chamado "[yurialissondrescher](https://www.instagram.com/yurialissondrescher/)".
 
 <p align="left">
+    <!-- YouTube -->
     <a href="https://www.youtube.com/@yurialissondrescher?sub_confirmation=1">
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23FF0000&label=YouTube&logo=youtube&logoColor=white&style=for-the-badge&labelColor=CC0000"
         />
     </a>
-    <a href="https://www.youtube.com/@yurialissondrescher">
+    <!-- Instagram -->
+    <a href="https://www.instagram.com/yurialissondrescher/">
         <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
+            alt="Instagram" 
+            title="Siga no Instagram" 
+            src="https://img.shields.io/badge/Instagram-%23E1306C.svg?&style=for-the-badge&logo=instagram&logoColor=white"
         />
     </a> 
-    <a href="https://github.com/Yuridrescher?tab=repositories&sort=stargazers">
+    <!-- LinkedIn -->
+    <a href="https://www.linkedin.com/in/yurialissondrescher/">
         <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Yuridrescher?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            alt="LinkedIn" 
+            title="Conecte-se no LinkedIn" 
+            src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
-    <a href="https://github.com/Yuridrescher?tab=followers">
+    <!-- Gmail -->
+    <a href="mailto:yuridrescheryd@gmail.com">
         <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            alt="Gmail" 
+            title="Enviar Email" 
+            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
         />
     </a>
 </p>
@@ -170,15 +174,4 @@ Me chamo Yuri, sou natural do Rio Grande do Sul. Atualmente, estou cursando Sist
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Yuridrescher&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuridrescher&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
-
+    src="https://github-readme-stats.
