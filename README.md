@@ -42,7 +42,7 @@ Olá me chamo Yuri Alisson Drescher, sou natural do Rio Grande do Sul. Atualment
 - 🛠️ Em busca de aperfeicoar a minhas habilidades na area da programção e suas respectivs linguagens
 - ⁉️ Autodidata, criativo, vendo o 🌎 sobre outra ótica
 - 🧠"Mudando o mundo com cliques.”
-- 🥇 Hobbies 🏀🏐♟️📷📚📈🎮🍔
+- 🥇 Hobbies 📷🚴🏻🏀🏐♟️📚📈🎮🍔
 ---
 
 ### 🤖 Linguagens e Tecnologias
