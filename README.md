@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:833ab4,50:fd1d1d,100:fcb045&height=200&section=header&text=Yuri%20Drescher&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=000000,FFD700&height=200&section=header&text=Yuri%20Drescher&fontSize=40&fontColor=fff&animation=none&fontAlignY=35"/>
 </p>
 
 ---
@@ -51,10 +51,10 @@ Me chamo Yuri, sou natural do Rio Grande do Sul. Atualmente, estou cursando Sist
 
 <div align="center">
   <a href="https://github.com/yuridrescher">
-    <img src="https://github-readme-stats.vercel.app/api?username=yuridrescher&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br" height="170" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=yuridrescher&show_icons=true&theme=dark&title_color=FFD700&icon_color=FFD700&text_color=000000&bg_color=FFFFFF&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br" height="170" alt="GitHub Stats"/>
   </a>
   <a href="https://github.com/yuridrescher">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yuridrescher&layout=compact&langs_count=8&theme=radical&hide_border=true" height="170" alt="Linguagens mais usadas"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yuridrescher&layout=compact&langs_count=8&theme=dark&title_color=FFD700&text_color=000000&bg_color=FFFFFF&hide_border=true" height="170" alt="Linguagens mais usadas"/>
   </a>
 </div>
 
@@ -64,10 +64,10 @@ Me chamo Yuri, sou natural do Rio Grande do Sul. Atualmente, estou cursando Sist
 
 <p align="center">
   <a href="https://github.com/yuridrescher/NOME_DO_REPO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuridrescher&repo=NOME_DO_REPO&theme=radical&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuridrescher&repo=NOME_DO_REPO&theme=dark&title_color=FFD700&text_color=000000&bg_color=FFFFFF&hide_border=true"/>
   </a>
   <a href="https://github.com/yuridrescher/NOME_DO_REPO2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuridrescher&repo=NOME_DO_REPO2&theme=radical&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuridrescher&repo=NOME_DO_REPO2&theme=dark&title_color=FFD700&text_color=000000&bg_color=FFFFFF&hide_border=true"/>
   </a>
 </p>
 
@@ -76,7 +76,7 @@ Me chamo Yuri, sou natural do Rio Grande do Sul. Atualmente, estou cursando Sist
 ### 📅 Contribuições Recentes
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuridrescher&theme=radical&hide_border=true" alt="Gráfico de contribuições"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuridrescher&theme=dark&color=FFD700&hide_border=true" alt="Gráfico de contribuições"/>
 </p>
 
 <p align="center">
