@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=Yuri%20Drescher&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:833ab4,50:fd1d1d,100:fcb045&height=200&section=header&text=Yuri%20Drescher&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 ---
@@ -9,40 +9,24 @@
 
 **`Dev`**
 
-Me chamo Yuri, sou natural do Rio Grande do Sul. Atualmente, estou cursando Sistemas de Informação na Antonio Meneghetti Faculdade. Sou apaixonado por tecnologia e entusiasta da área Tech. Me conheça mais através do meu perfi no Instagram, chamado "[yurialissondrescher](https://www.instagram.com/yurialissondrescher/)".
+Me chamo Yuri, sou natural do Rio Grande do Sul. Atualmente, estou cursando Sistemas de Informação na Antonio Meneghetti Faculdade. Sou apaixonado por tecnologia e entusiasta da área Tech. Me conheça mais através das minhas redes abaixo 👇
+
+---
+
+### 🌐 Conecte-se comigo
 
 <p align="left">
-    <!-- Instagram -->
-    <a href="https://www.instagram.com/yurialissondrescher/">
-        <img 
-            alt="Instagram" 
-            title="Siga no Instagram" 
-            src="https://img.shields.io/badge/Instagram-%23E1306C.svg?&style=for-the-badge&logo=instagram&logoColor=white"
-        />
-    </a> 
-    <!-- LinkedIn -->
-    <a href="https://www.linkedin.com/in/yurialissondrescher/">
-        <img 
-            alt="LinkedIn" 
-            title="Conecte-se no LinkedIn" 
-            src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
-        />
+    <a href="https://www.instagram.com/yurialissondrescher/" target="_blank">
+        <img alt="Instagram" title="Me siga no Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
     </a>
-    <!-- Gmail -->
-    <a href="mailto:yuridrescheryd@gmail.com">
-        <img 
-            alt="Gmail" 
-            title="Enviar Email" 
-            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-        />
+    <a href="mailto:yuridrescheryd@gmail.com" target="_blank">
+        <img alt="Gmail" title="Me mande um email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
-    <!-- YouTube -->
-    <a href="https://www.youtube.com/@yurialissondrescher">
-        <img 
-            alt="YouTube" 
-            title="Meu Canal no YouTube" 
-            src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
-        />
+    <a href="https://www.linkedin.com/in/yurialissondrescher/" target="_blank">
+        <img alt="LinkedIn" title="Veja meu perfil no LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="https://www.youtube.com/@yurialissondrescher?sub_confirmation=1" target="_blank">
+        <img alt="YouTube" title="Inscreva-se no meu canal" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
     </a>
 </p>
 
@@ -50,5 +34,26 @@ Me chamo Yuri, sou natural do Rio Grande do Sul. Atualmente, estou cursando Sist
 
 ### 🤖 Linguagens e Tecnologias
 
-<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS" title="CSS" width="30px"
+<img align="left" alt="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img align="left" alt="HTML5" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img align="left" alt="CSS3" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img align="left" alt="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img align="left" alt="GitHub" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+<img align="left" alt="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img align="left" alt="VSCode" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+
+<br/>
+<br/>
+
+---
+
+### 📊 Estatísticas
+
+<div align="center">
+  <a href="https://github.com/yuridrescher">
+    <img src="https://github-readme-stats.vercel.app/api?username=yuridrescher&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br" height="170" alt="GitHub Stats"/>
+  </a>
+  <a href="https://github.com/yuridrescher">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yuridrescher&layout=compact&langs_count=8&theme=radical&hide_border=true" height="170" alt="Linguagens mais usadas"/>
+  </a>
+</div>
