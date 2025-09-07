@@ -24,7 +24,15 @@ Me chamo Yuri, sou natural do Rio Grande do Sul. Atualmente, estou cursando Sist
         <img alt="YouTube" title="Inscreva-se no meu canal" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
     </a>
 </p>
+---
 
+### 😎 Sobre mim
+- 💼 Vendedor | Filmmaker | Editor
+- 📖 Estudante de tecnologia e inovação
+- 🛠️ Em busca de aperfeicoar a minhas habilidades na area da programção e suas respectivs linguagens
+- ⁉️ Autodidata, criativo, vendo o 🌎 sobre outra ótica
+- 🧠"Mudando o mundo com cliques.”
+- 🥇 Hobbies 🏀🏐♟️📷📚📈🎮🍔
 ---
 
 ### 🤖 Linguagens e Tecnologias
