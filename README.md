@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=00FF00&height=200&section=header&text=Yuri%20Drescher&fontSize=40&fontColor=00FF00&animation=none&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=4B5320&height=200&section=header&text=Yuri%20Drescher&fontSize=40&fontColor=4B5320&animation=none&fontAlignY=35"/>
 </p>
 
 ---
@@ -51,10 +51,10 @@ Me chamo Yuri, sou natural do Rio Grande do Sul. Atualmente, estou cursando Sist
 
 <div align="center">
   <a href="https://github.com/yuridrescher">
-    <img src="https://github-readme-stats.vercel.app/api?username=yuridrescher&show_icons=true&theme=tokyonight&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00&bg_color=000000&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br" height="170" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=yuridrescher&show_icons=true&theme=tokyonight&title_color=4B5320&text_color=FFFFFF&icon_color=4B5320&bg_color=000000&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br" height="170" alt="GitHub Stats"/>
   </a>
   <a href="https://github.com/yuridrescher">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yuridrescher&layout=compact&langs_count=8&theme=tokyonight&title_color=00FF00&text_color=FFFFFF&bg_color=000000&hide_border=true" height="170" alt="Linguagens mais usadas"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yuridrescher&layout=compact&langs_count=8&theme=tokyonight&title_color=4B5320&text_color=FFFFFF&bg_color=000000&hide_border=true" height="170" alt="Linguagens mais usadas"/>
   </a>
 </div>
 
@@ -64,7 +64,7 @@ Me chamo Yuri, sou natural do Rio Grande do Sul. Atualmente, estou cursando Sist
 
 <p align="center">
   <a href="https://github.com/yuridrescher/Projeto-final">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuridrescher&repo=Projeto-final&theme=tokyonight&title_color=00FF00&text_color=FFFFFF&bg_color=000000&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuridrescher&repo=Projeto-final&theme=tokyonight&title_color=4B5320&text_color=FFFFFF&bg_color=000000&hide_border=true"/>
   </a>
 </p>
 
@@ -73,5 +73,5 @@ Me chamo Yuri, sou natural do Rio Grande do Sul. Atualmente, estou cursando Sist
 ### 📅 Contribuições Recentes
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuridrescher&theme=react-dark&color=00FF00&bg_color=000000&hide_border=true&area=true" alt="Gráfico de contribuições"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuridrescher&theme=react-dark&color=4B5320&bg_color=000000&hide_border=true&area=true" alt="Gráfico de contribuições"/>
 </p>
