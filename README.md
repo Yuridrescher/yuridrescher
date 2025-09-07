@@ -1,6 +1,7 @@
 <!-- Banner -->
 <p align="center">
-  <img src=https://i.pinimg.com/736x/81/0d/56/810d5634bb73f3e2151331092612bef3.jpg/>
+  <img src=![download (1)](https://github.com/user-attachments/assets/45acab79-869e-49ed-a038-dfbc6b4a84e0)
+>
 </p>
 
 ---
