@@ -35,8 +35,9 @@ Me chamo Yuri, sou natural do Rio Grande do Sul. Atualmente, estou cursando Sist
   <img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5" />
   <img src="https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3" />
   <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" />
-  <img src="https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code" />
+  <img src="https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC" />
 </p>
+
 
 
 
