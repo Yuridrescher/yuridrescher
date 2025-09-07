@@ -39,7 +39,7 @@ Me chamo Yuri, sou natural do Rio Grande do Sul. Atualmente, estou cursando Sist
 </p>
 
 
-
+---
 
 <br/>
 <br/>
