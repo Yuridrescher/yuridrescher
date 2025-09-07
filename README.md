@@ -30,14 +30,14 @@ Me chamo Yuri, sou natural do Rio Grande do Sul. Atualmente, estou cursando Sist
 ### 🤖 Linguagens e Tecnologias
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30px" style="vertical-align: middle;"/> <span style="padding-right: 20px;">Python</span>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30px" style="vertical-align: middle;"/> <span style="padding-right: 20px;">HTML5</span>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30px" style="vertical-align: middle;"/> <span style="padding-right: 20px;">CSS3</span>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30px" style="vertical-align: middle;"/> <span style="padding-right: 20px;">JavaScript</span>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30px" style="vertical-align: middle;"/> <span style="padding-right: 20px;">GitHub</span>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30px" style="vertical-align: middle;"/> <span style="padding-right: 20px;">Git</span>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30px" style="vertical-align: middle;"/> <span style="padding-right: 20px;">VSCode</span>
+  <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" />
+  <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" />
+  <img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5" />
+  <img src="https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3" />
+  <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" />
+  <img src="https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code" />
 </p>
+
 
 
 <br/>
