@@ -1,60 +1,56 @@
-<!-- Banner ou frase de destaque -->
-<h1 align="center">👋 Olá, eu sou o Yuri Drescher</h1>
-<h3 align="center">🚀 Apaixonado por tecnologia, desenvolvimento e inovação</h3>
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=Yuri%20Drescher&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
+</p>
 
 ---
 
-## 📊 Estatísticas
+## 👨‍💻 Sobre mim  
+
+- 📚 Estudante de tecnologia e entusiasta de inovação  
+- 🛠️ Buscando dominar **Python, Java, C++** e **desenvolvimento web**  
+- 🎯 Apaixonado por transformar ideias em **projetos reais**  
+- 💡 Curioso, criativo e em constante aprendizado  
+- ☕ “Se não deu certo, talvez só precise de mais café...”  
+
+---
+
+## 🧰 Tecnologias e Ferramentas  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuridrescher&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" height="170" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yuridrescher&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="170" alt="Linguagens mais usadas" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,django,arduino,vscode,figma,git" />
 </div>
 
 ---
 
-## 💻 Tecnologias & Ferramentas
+## 📊 Estatísticas  
 
 <div align="center">
-  
-  <!-- Primeira linha -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="c++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="45" alt="django" />
-  
-  <br/>
-
-  <!-- Segunda linha -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="45" alt="android" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="45" alt="google" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="45" alt="arduino" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="vscode" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" alt="figma" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=yuridrescher&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="170" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yuridrescher&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="170" alt="Linguagens mais usadas"/>
 </div>
 
 ---
 
-## 🌐 Conecte-se comigo
+## 🌐 Minhas redes sociais  
 
 <div align="center">
   <a href="https://www.linkedin.com/in/yurialissondrescher/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
   <a href="https://discord.com/yurialissondrescher" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" height="40" alt="Discord"/>
+    <img src="https://skillicons.dev/icons?i=discord" height="40"/>
   </a>
-  <a href="https://youtube.com/@yurialissondrescher?si=yh7FgrYmm3UzlaAR" target="_blank">
-    <img src="https://skillicons.dev/icons?i=youtube" height="40" alt="YouTube"/>
+  <a href="https://youtube.com/@yurialissondrescher" target="_blank">
+    <img src="https://skillicons.dev/icons?i=youtube" height="40"/>
   </a>
   <a href="https://www.instagram.com/yurialissondrescher/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram"/>
+    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
   </a>
 </div>
 
 ---
 
-✨ _“A tecnologia move o mundo e eu quero estar entre aqueles que a movem.”_ ✨
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:24243e&height=120&section=footer"/>
+</p>
