@@ -11,9 +11,6 @@
 
 Me chamo Yuri, sou natural do Rio Grande do Sul. Atualmente, estou cursando Sistemas de Informação na Antonio Meneghetti Faculdade. Sou apaixonado por tecnologia e entusiasta da área Tech. Me conheça mais através das minhas redes abaixo 👇
 
----
-
-### 🌐 Conecte-se comigo
 
 <p align="left">
     <a href="https://www.instagram.com/yurialissondrescher/" target="_blank">
