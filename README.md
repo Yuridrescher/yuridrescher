@@ -14,7 +14,7 @@ Me chamo Yuri, sou natural do Rio Grande do Sul. Atualmente, estou cursando Sist
     <a href="https://www.instagram.com/yurialissondrescher/" target="_blank">
         <img alt="Instagram" title="Me siga no Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
     </a>
-   <a href="https://www.linkedin.com/in/yurialissondrescher/" target="_blank">
+    <a href="https://www.linkedin.com/in/yurialissondrescher/" target="_blank">
         <img alt="LinkedIn" title="Veja meu perfil no LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
     <a href="mailto:yuridrescheryd@gmail.com" target="_blank">
@@ -23,7 +23,11 @@ Me chamo Yuri, sou natural do Rio Grande do Sul. Atualmente, estou cursando Sist
     <a href="https://www.youtube.com/@yurialissondrescher?sub_confirmation=1" target="_blank">
         <img alt="YouTube" title="Inscreva-se no meu canal" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
     </a>
+    <a href="https://steamcommunity.com/id/Yuri_Drescher" target="_blank">
+        <img alt="Steam" title="Meu perfil Steam" src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white"/>
+    </a>
 </p>
+
 ---
 
 ### 😎 Sobre mim
