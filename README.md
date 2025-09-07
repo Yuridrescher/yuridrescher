@@ -57,3 +57,28 @@ Me chamo Yuri, sou natural do Rio Grande do Sul. Atualmente, estou cursando Sist
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yuridrescher&layout=compact&langs_count=8&theme=radical&hide_border=true" height="170" alt="Linguagens mais usadas"/>
   </a>
 </div>
+
+---
+
+### 📌 Repositórios Populares
+
+<p align="center">
+  <a href="https://github.com/yuridrescher/NOME_DO_REPO">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuridrescher&repo=NOME_DO_REPO&theme=radical&hide_border=true"/>
+  </a>
+  <a href="https://github.com/yuridrescher/NOME_DO_REPO2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuridrescher&repo=NOME_DO_REPO2&theme=radical&hide_border=true"/>
+  </a>
+</p>
+
+---
+
+### 📅 Contribuições Recentes
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuridrescher&theme=radical&hide_border=true" alt="Gráfico de contribuições"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/yuridrescher/yuridrescher/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</p>
