@@ -5,82 +5,180 @@
 
 ---
 
-## 👨‍💻 Sobre mim  
+# 👨🏻‍💻 Yuri Drescher
 
-- 📚 Estudante de tecnologia e entusiasta de inovação  
-- 🛠️ Buscando dominar **Python, Java, C++** e **desenvolvimento web**  
-- 🎯 Apaixonado por transformar ideias em **projetos reais**  
-- 💡 Curioso, criativo e em constante aprendizado  
-- ☕ “Se não deu certo, talvez só precise de mais café...”  
+**`Dev`**
 
----
+Me chamo Yuri, sou natural do Rio Grande do Sul. Atualmente, estou cursando Sistemas de Informação na Antonio Meneghetti Faculdade. Sou apaixonado por tecnologia e entusiasta da área Tech. Me conheça mais através do meu perfi no Instagram, chamado "[yurialissondrescher](https://www.instagram.com/yurialissondrescher/)".
 
-## 🧰 Tecnologias e Ferramentas  
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,django,arduino,vscode,figma,git" />
-</div>
-
----
-
-## 📊 Estatísticas do GitHub  
-
-<p align="center">
-  <!-- Radical -->
-  <a href="https://github.com/yuridrescher">
-    <img src="https://github-readme-stats.vercel.app/api?username=yuridrescher&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" height="180"/>
-  </a>
-  <a href="https://github.com/yuridrescher">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yuridrescher&layout=compact&langs_count=8&theme=radical&hide_border=true" height="180"/>
-  </a>
+<p align="left">
+    <a href="https://www.youtube.com/@yurialissondrescher?sub_confirmation=1">
+        <img 
+            alt="youtube subscribers" 
+            title="Inscreva-se no meu canal" 
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+        />
+    </a>
+    <a href="https://www.youtube.com/@yurialissondrescher">
+        <img 
+            alt="youtube views" 
+            title="Vizualizações no YouTube" 
+            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
+        />
+    </a> 
+    <a href="https://github.com/Yuridrescher?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/Yuridrescher?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/Yuridrescher?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
 </p>
 
 ---
 
-<p align="center">
-  <!-- Dracula -->
-  <a href="https://github.com/yuridrescher">
-    <img src="https://github-readme-stats.vercel.app/api?username=yuridrescher&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" height="180"/>
-  </a>
-  <a href="https://github.com/yuridrescher">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yuridrescher&layout=compact&langs_count=8&theme=dracula&hide_border=true" height="180"/>
-  </a>
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Next.js" 
+    title="Next.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Bootstrap"
+    title="Bootstrap" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Tailwind" 
+    title="Tailwind"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="SASS" 
+    title="SASS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Laravel" 
+    title="Laravel"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JQuery" 
+    title="JQuery"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Yuridrescher&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuridrescher&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
 </p>
 
----
-
-<p align="center">
-  <!-- Vision Friendly Dark -->
-  <a href="https://github.com/yuridrescher">
-    <img src="https://github-readme-stats.vercel.app/api?username=yuridrescher&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&hide_border=true" height="180"/>
-  </a>
-  <a href="https://github.com/yuridrescher">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yuridrescher&layout=compact&langs_count=8&theme=vision-friendly-dark&hide_border=true" height="180"/>
-  </a>
-</p>
-
-
----
-
-## 🌐 Minhas redes sociais  
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/yurialissondrescher/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-  </a>
-  <a href="https://discord.com/yurialissondrescher" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" height="40"/>
-  </a>
-  <a href="https://youtube.com/@yurialissondrescher" target="_blank">
-    <img src="https://skillicons.dev/icons?i=youtube" height="40"/>
-  </a>
-  <a href="https://www.instagram.com/yurialissondrescher/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
-  </a>
-</div>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:24243e&height=120&section=footer"/>
-</p>
