@@ -23,12 +23,42 @@
 
 ---
 
-## 📊 Estatísticas  
+## 📊 Estatísticas do GitHub  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuridrescher&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="170" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yuridrescher&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="170" alt="Linguagens mais usadas"/>
-</div>
+<p align="center">
+  <!-- Radical -->
+  <a href="https://github.com/yuridrescher">
+    <img src="https://github-readme-stats.vercel.app/api?username=yuridrescher&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" height="180"/>
+  </a>
+  <a href="https://github.com/yuridrescher">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yuridrescher&layout=compact&langs_count=8&theme=radical&hide_border=true" height="180"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <!-- Dracula -->
+  <a href="https://github.com/yuridrescher">
+    <img src="https://github-readme-stats.vercel.app/api?username=yuridrescher&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" height="180"/>
+  </a>
+  <a href="https://github.com/yuridrescher">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yuridrescher&layout=compact&langs_count=8&theme=dracula&hide_border=true" height="180"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <!-- Vision Friendly Dark -->
+  <a href="https://github.com/yuridrescher">
+    <img src="https://github-readme-stats.vercel.app/api?username=yuridrescher&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&hide_border=true" height="180"/>
+  </a>
+  <a href="https://github.com/yuridrescher">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yuridrescher&layout=compact&langs_count=8&theme=vision-friendly-dark&hide_border=true" height="180"/>
+  </a>
+</p>
+
 
 ---
 
