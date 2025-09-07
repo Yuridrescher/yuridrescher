@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=4B5320&height=200&section=header&text=Yuri%20Drescher&fontSize=40&fontColor=4B5320&animation=none&fontAlignY=35"/>
+  <img src=https://i.pinimg.com/736x/81/0d/56/810d5634bb73f3e2151331092612bef3.jpg/>
 </p>
 
 ---
