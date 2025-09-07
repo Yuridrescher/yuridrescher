@@ -63,17 +63,13 @@ Me chamo Yuri, sou natural do Rio Grande do Sul. Atualmente, estou cursando Sist
 ### 📌 Repositórios Populares
 
 <p align="center">
-  <a href="https://github.com/yuridrescher/NOME_DO_REPO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuridrescher&repo=NOME_DO_REPO&theme=tokyonight&title_color=FFD700&text_color=FFD700&bg_color=000000&hide_border=true"/>
-  </a>
-  <a href="https://github.com/yuridrescher/NOME_DO_REPO2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuridrescher&repo=NOME_DO_REPO2&theme=tokyonight&title_color=FFD700&text_color=FFD700&bg_color=000000&hide_border=true"/>
+  <a href="https://github.com/yuridrescher/Projeto-final">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuridrescher&repo=Projeto-final&theme=tokyonight&title_color=FFD700&text_color=FFD700&bg_color=000000&hide_border=true"/>
   </a>
 </p>
 
 ---
 
-### 📅 Contribuições Recentes
 
 ### 📅 Contribuições Recentes
 
