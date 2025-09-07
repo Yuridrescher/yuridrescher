@@ -75,10 +75,8 @@ Me chamo Yuri, sou natural do Rio Grande do Sul. Atualmente, estou cursando Sist
 
 ### 📅 Contribuições Recentes
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuridrescher&theme=react-dark&color=FFD700&bg_color=000000&hide_border=true" alt="Gráfico de contribuições"/>
-</p>
+### 📅 Contribuições Recentes
 
 <p align="center">
-  <img src="https://github.com/yuridrescher/yuridrescher/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuridrescher&theme=react-dark&color=FFD700&bg_color=000000&hide_border=true&area=true" alt="Gráfico de contribuições"/>
 </p>
