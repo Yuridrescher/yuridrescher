@@ -49,12 +49,13 @@ Me chamo Yuri, sou natural do Rio Grande do Sul. Atualmente, estou cursando Sist
 
 <div align="center">
   <a href="https://github.com/yuridrescher">
-    <img src="https://github-readme-stats.vercel.app/api?username=yuridrescher&show_icons=true&theme=tokyonight&title_color=FFA500&text_color=FFFFFF&icon_color=FFA500&bg_color=000000&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br" height="170" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=yuridrescher&show_icons=true&theme=tokyonight&title_color=00CED1&text_color=FFFFFF&icon_color=00CED1&bg_color=000000&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br" height="170" alt="GitHub Stats"/>
   </a>
   <a href="https://github.com/yuridrescher">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yuridrescher&layout=compact&langs_count=8&theme=tokyonight&title_color=FFA500&text_color=FFFFFF&bg_color=000000&hide_border=true" height="170" alt="Linguagens mais usadas"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yuridrescher&layout=compact&langs_count=8&theme=tokyonight&title_color=00CED1&text_color=FFFFFF&bg_color=000000&hide_border=true" height="170" alt="Linguagens mais usadas"/>
   </a>
 </div>
+
 
 
 
