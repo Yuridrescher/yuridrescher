@@ -5,7 +5,7 @@
 
 # 👨🏻‍💻 Yuri Drescher
 
-**`Dev`**
+**`Coding is turning coffee into possibilities.☕💻🚀`**
 
 Olá me chamo Yuri Alisson Drescher, sou natural do Rio Grande do Sul. Atualmente, estou cursando Sistemas de Informação na Antonio Meneghetti Faculdade. Sou entusiasta da área Tech. Me conheça mais através das minhas redes abaixo 👇
 
