@@ -5,8 +5,12 @@
 
 <h1 align="center">
   👨🏻‍💻
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=40&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Yuri+Alisson+Drescher.;Sou+da+cidade+de+Agudo." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=40&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Yuri+Alisson+Drescher;Sou+da+cidade+de+Agudo" alt="Typing SVG" />
 </h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yuridrescher&label=Visualiza%C3%A7%C3%B5es+do+Perfil&color=36BCF7&style=for-the-badge" alt="Contador de visitas"/>
+</p>
 
 <p align="center">
   <strong><code>Coding is turning coffee into possibilities.☕💻🚀</code></strong>
@@ -64,9 +68,9 @@
 ### 📊 Estatísticas
 <div align="center">
   <a href="https://github.com/yuridrescher">
-    <img src="https://github-readme-stats.vercel.app/api?username=yuridrescher&show_icons=true&theme=tokyonight&title_color=00CED1&text_color=FFFFFF&icon_color=00CED1&bg_color=000000&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br" height="170" alt="GitHub Stats"/>
+    <img src="https://github-stats-extended.vercel.app/api?username=yuridrescher&show_icons=true&theme=tokyonight&title_color=00CED1&text_color=FFFFFF&icon_color=00CED1&bg_color=000000&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br" height="170" alt="GitHub Stats"/>
   </a>
   <a href="https://github.com/yuridrescher">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yuridrescher&layout=compact&langs_count=8&theme=tokyonight&title_color=00CED1&text_color=FFFFFF&bg_color=000000&hide_border=true" height="170" alt="Linguagens mais usadas"/>
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=yuridrescher&layout=compact&langs_count=8&theme=tokyonight&title_color=00CED1&text_color=FFFFFF&bg_color=000000&hide_border=true" height="170" alt="Linguagens mais usadas"/>
   </a>
 </div>
