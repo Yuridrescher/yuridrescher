@@ -9,15 +9,16 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yuridrescher&label=Visualiza%C3%A7%C3%B5es+do+Perfil&color=FF7A00&style=for-the-badge" alt="Contador de visitas"/>
+  <img src="https://img.shields.io/badge/-Aberto a oportunidades-FF7A00?style=for-the-badge&logoColor=white" alt="Disponibilidade"/>
+  <img src="https://komarev.com/ghpvc/?username=yuridrescher&label=Visualiza%C3%A7%C3%B5es&color=FF7A00&style=for-the-badge" alt="Contador de visitas"/>
 </p>
 
 <p align="center">
-  <strong><code>Coding is turning coffee into possibilities.☕💻🚀</code></strong>
+  <strong><code>Coding is turning coffee into possibilities. ☕💻🚀</code></strong>
 </p>
 
 <p align="center">
-  Olá me chamo Yuri Alisson Drescher, sou natural do Rio Grande do Sul. Atualmente, estou cursando Sistemas de Informação na Antonio Meneghetti Faculdade. Sou entusiasta da área Tech. Me conheça mais através das minhas redes abaixo 👇
+  Olá, me chamo Yuri Alisson Drescher, sou natural do Rio Grande do Sul. Atualmente, curso Sistemas de Informação na Antonio Meneghetti Faculdade e sou entusiasta da área Tech.
 </p>
 
 <p align="center">
@@ -30,6 +31,7 @@
     <a href="mailto:yuridrescheryd@gmail.com" target="_blank">
         <img alt="Gmail" title="Me mande um email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
+    &nbsp;&nbsp;
     <a href="https://www.youtube.com/@yurialissondrescher?sub_confirmation=1" target="_blank">
         <img alt="YouTube" title="Inscreva-se no meu canal" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
     </a>
@@ -43,31 +45,37 @@
 
 <br/>
 
----
-
 ### 😎 Sobre mim
 
-- 💼 Vendedor | Filmmaker | Editor
-- 📖 Estudante de tecnologia e inovação
-- 🛠️ Em busca de aperfeiçoar as minhas habilidades na área da programação e suas respectivas linguagens
-- ⁉️ Autodidata, criativo, enxergo o 🌎 sob outra ótica
-- 🧠 "Mudando o mundo com cliques."
-- 🥇 Hobbies 📷🚴🏻🏀🏐♟️📚📈🎮🍔
+- 💼 Vendedor · Filmmaker · Editor
+- 📖 Estudante de Sistemas de Informação, apaixonado por tecnologia e inovação
+- 🛠️ Em constante aperfeiçoamento das minhas habilidades em programação
+- 🧠 Autodidata e criativo — gosto de enxergar o mundo por outra ótica
+- 🎯 Hobbies: fotografia, ciclismo, basquete, vôlei, xadrez, leitura, games
 
----
+<br/>
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" />
-  <img src="https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk" />
-  <img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5" />
-  <img src="https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3" />
-  <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" />
-  <img src="https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC" />
+**Linguagens**
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-FF7A00?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Java-FF7A00?style=flat-square&logo=openjdk&logoColor=white" />
 </p>
 
----
+**Front-end**
+<p align="center">
+  <img src="https://img.shields.io/badge/-HTML5-1a1a1a?style=flat-square&logo=html5&logoColor=FF7A00" />
+  <img src="https://img.shields.io/badge/-CSS3-1a1a1a?style=flat-square&logo=css3&logoColor=FF7A00" />
+</p>
+
+**Ferramentas**
+<p align="center">
+  <img src="https://img.shields.io/badge/-Git-1a1a1a?style=flat-square&logo=git&logoColor=FF7A00" />
+  <img src="https://img.shields.io/badge/-VS%20Code-1a1a1a?style=flat-square&logo=visual-studio-code&logoColor=FF7A00" />
+</p>
+
+<br/>
 
 ### 📊 Estatísticas
 
