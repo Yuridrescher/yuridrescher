@@ -82,5 +82,5 @@
 </div>
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/FF7A00/yuridrescher" alt="Calendário de Contribuições" width="100%"/>
+  <img src="https://raw.githubusercontent.com/yuridrescher/yuridrescher/output/github-contribution-grid.svg" alt="Calendário de Contribuições" width="100%"/>
 </div>
