@@ -6,7 +6,7 @@
 <h1 align="center">Olá, eu sou o Yuri 👋🏻</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&pause=1200&color=FFFFFF&background=2F6F4F&center=true&vCenter=true&width=220&height=32&repeat=true&lines=Vendedor;Filmmaker;Editor;Estudante;Do+Rio+Grande+do+Sul" alt="Tags" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1200&color=2F6F4F&center=true&vCenter=true&width=400&height=32&repeat=true&lines=Sou+de+Agudo.;Rio+Grande+do+Sul.;Estudante+de+Sistemas+da+Informa%C3%A7%C3%A3o.;Buscando+crescer+na+%C3%A1rea+Tech.;Em+constante+evolu%C3%A7%C3%A3o." alt="Tags" />
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-Sou natural do Rio Grande do Sul. Atualmente, estou cursando Sistemas de Informação na Antonio Meneghetti Faculdade. Sou entusiasta da área Tech. Me conheça mais através das minhas redes abaixo 👇
+  Olá me chamo Yuri Alisson Drescher, sou natural do Rio Grande do Sul. Atualmente, estou cursando Sistemas de Informação na Antonio Meneghetti Faculdade. Sou entusiasta da área Tech. Me conheça mais através das minhas redes abaixo 👇
 </p>
 
 <p align="center">
