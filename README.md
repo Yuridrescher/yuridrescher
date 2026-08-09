@@ -5,11 +5,11 @@
 
 <h1 align="center">
   👨🏻‍💻
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF7A00&center=true&vCenter=true&width=600&height=40&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Yuri+Alisson+Drescher;Sou+da+cidade+de+Agudo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F6F4F&center=true&vCenter=true&width=600&height=40&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Yuri+Alisson+Drescher;Sou+da+cidade+de+Agudo" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yuridrescher&label=Visualiza%C3%A7%C3%B5es+do+Perfil&color=FF7A00&style=for-the-badge" alt="Contador de visitas"/>
+  <img src="https://komarev.com/ghpvc/?username=yuridrescher&label=Visualiza%C3%A7%C3%B5es+do+Perfil&color=2F6F4F&style=for-the-badge" alt="Contador de visitas"/>
 </p>
 
 <p align="center">
@@ -73,14 +73,14 @@
 
 <div align="center">
   <a href="https://github.com/yuridrescher">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=yuridrescher&layout=compact&langs_count=8&theme=tokyonight&title_color=FF7A00&text_color=FFFFFF&bg_color=000000&hide_border=true" height="170" alt="Linguagens mais usadas"/>
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=yuridrescher&layout=compact&langs_count=8&theme=tokyonight&title_color=2F6F4F&text_color=FFFFFF&bg_color=000000&hide_border=true" height="170" alt="Linguagens mais usadas"/>
   </a>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=yuridrescher&theme=tokyonight&hide_border=true&background=000000&ring=FF7A00&fire=FF7A00&currStreakLabel=FF7A00" alt="GitHub Streak Stats"/>
+  <img src="https://streak-stats.demolab.com?user=yuridrescher&theme=tokyonight&hide_border=true&background=000000&ring=2F6F4F&fire=2F6F4F&currStreakLabel=2F6F4F" alt="GitHub Streak Stats"/>
 </div>
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/FF7A00/yuridrescher" alt="Calendário de Contribuições" width="100%"/>
+  <img src="https://ghchart.rshah.org/2F6F4F/yuridrescher" alt="Calendário de Contribuições" width="100%"/>
 </div>
