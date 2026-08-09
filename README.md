@@ -79,9 +79,5 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=yuridrescher&theme=tokyonight&hide_border=true&background=000000&ring=00CED1&fire=00CED1&currStreakLabel=00CED1" alt="GitHub Streak Stats"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuridrescher&theme=tokyo-night&bg_color=000000&color=00CED1&line=36BCF7&point=FFFFFF&area=true&hide_border=true" alt="Gráfico de Atividades"/>
+  <img src="https://ghchart.rshah.org/00CED1/yuridrescher" alt="Calendário de Contribuições" width="100%"/>
 </div>
