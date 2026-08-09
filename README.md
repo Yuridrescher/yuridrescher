@@ -4,10 +4,7 @@
 </p>
 
 <h1 align="center">
-  👨🏻‍💻
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Yuri+Alisson+Drescher!;Sou+da+cidade+de+Agudo." alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&height=40&lines=%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+Ol%C3%A1%2C+meu+nome+%C3%A9+Yuri+Alisson+Drescher;%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+Sou+da+cidade+de+Agudo" alt="Typing SVG" />
 </h1>
 
 <p align="center">
