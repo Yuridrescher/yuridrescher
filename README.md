@@ -73,4 +73,6 @@
   <a href="https://github.com/yuridrescher">
     <img src="https://github-stats-extended.vercel.app/api/top-langs?username=yuridrescher&layout=compact&langs_count=8&theme=tokyonight&title_color=00CED1&text_color=FFFFFF&bg_color=000000&hide_border=true" height="170" alt="Linguagens mais usadas"/>
   </a>
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=yuridrescher&theme=tokyonight&hide_border=true&background=000000&ring=00CED1&fire=00CED1&currStreakLabel=00CED1" alt="GitHub Streak Stats"/>
 </div>
