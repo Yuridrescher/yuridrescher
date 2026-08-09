@@ -3,10 +3,11 @@
   <img width="735" height="397" alt="image" src="https://github.com/user-attachments/assets/dbb0b046-f971-4be1-b34e-ffc055d62942" />
 </p>
 
-<h1 align="center">
-  👨🏻‍💻
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=2F6F4F&center=true&vCenter=true&width=600&height=40&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Yuri+Alisson+Drescher.;Sou+da+cidade+de+Agudo." alt="Typing SVG" />
-</h1>
+<h1 align="center">Olá, eu sou o Yuri 👋🏻</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&pause=1200&color=FFFFFF&background=2F6F4F&center=true&vCenter=true&width=220&height=32&repeat=true&lines=Vendedor;Filmmaker;Editor;Estudante;Do+Rio+Grande+do+Sul" alt="Tags" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yuridrescher&label=Visualiza%C3%A7%C3%B5es+do+Perfil&color=2F6F4F&style=for-the-badge" alt="Contador de visitas"/>
