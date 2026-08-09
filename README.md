@@ -54,7 +54,7 @@
 ### 🤖 Linguagens e Tecnologias
 <p align="left">
   <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" />
-  <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" />
+  <img src="https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk" />
   <img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5" />
   <img src="https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3" />
   <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" />
