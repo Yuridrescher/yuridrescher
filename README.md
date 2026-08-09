@@ -73,9 +73,12 @@
 
 <div align="center">
   <a href="https://github.com/yuridrescher">
-    <img src="https://github-stats-extended.vercel.app/api?username=yuridrescher&show_icons=true&theme=tokyonight&title_color=00CED1&text_color=FFFFFF&icon_color=00CED1&bg_color=000000&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br" height="170" alt="GitHub Stats"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=yuridrescher&layout=compact&langs_count=8&theme=tokyonight&title_color=00CED1&text_color=FFFFFF&bg_color=000000&hide_border=true" height="170" alt="Linguagens mais usadas"/>
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=yuridrescher&layout=compact&langs_count=8&theme=tokyonight&title_color=00CED1&text_color=FFFFFF&bg_color=000000&hide_border=true" height="170" alt="Linguagens mais usadas"/>
   </a>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=yuridrescher&theme=tokyonight&hide_border=true&background=000000&ring=00CED1&fire=00CED1&currStreakLabel=00CED1" alt="GitHub Streak Stats"/>
 </div>
 
 <div align="center">
