@@ -82,6 +82,3 @@
   <img src="https://streak-stats.demolab.com?user=yuridrescher&theme=tokyonight&hide_border=true&background=000000&ring=2F6F4F&fire=2F6F4F&currStreakLabel=2F6F4F" alt="GitHub Streak Stats"/>
 </div>
 
-<div align="center">
-  <img src="https://ghchart.rshah.org/2F6F4F/yuridrescher" alt="Calendário de Contribuições" width="100%"/>
-</div>
